@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="zone2021">
+      <UniqueIdentifier>{a9015d25-0da6-4e59-b0d0-f708066bd9fa}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="zone2021_D.h">
+      <Filter>zone2021</Filter>
+    </ClInclude>
+    <ClInclude Include="Main.h" />
+  </ItemGroup>
+</Project>
